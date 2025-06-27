@@ -1,35 +1,24 @@
 [
-  {
-    "pregunta": "¿Cuántos jugadores como mínimo se necesitan para seguir un partido?",
-    "opciones": {
-      "A": "5",
-      "B": "6",
-      "C": "7",
-      "D": "8"
+    {
+        "pregunta": "¿Qué ocurre si un portero toca el balón con la mano fuera del área?",
+        "opciones": {
+            "A": "Saque de banda",
+            "B": "Tiro libre directo",
+            "C": "Tiro libre indirecto",
+            "D": "Penalti"
+        },
+        "respuesta_correcta": "B",
+        "tiempo_segundos": 15
     },
-    "respuesta_correcta": "C",
-    "tiempo_segundos": 15
-  },
-  {
-    "pregunta": "¿Qué ocurre si un portero toca el balón con la mano fuera del área?",
-    "opciones": {
-      "A": "Saque de banda",
-      "B": "Tiro libre directo",
-      "C": "Tiro libre indirecto",
-      "D": "Penalti"
-    },
-    "respuesta_correcta": "B",
-    "tiempo_segundos": 20
-  },
-  {
-    "pregunta": "¿Cuántos cambios se permiten en una prórroga?",
-    "opciones": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6"
-    },
-    "respuesta_correcta": "C",
-    "tiempo_segundos": 20
-  }
+    {
+        "pregunta": "¿Cuántos cambios se permiten en una prórroga?",
+        "opciones": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "respuesta_correcta": "C",
+        "tiempo_segundos": 20
+    }
 ]
